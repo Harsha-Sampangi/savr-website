@@ -187,12 +187,12 @@ section {
 }
 
 .hero-content {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
 .hero h1 {
-    font-size: 3.5rem;
+    font-size: 3.0rem;
     margin-bottom: 20px;
     line-height: 1.2;
 }
